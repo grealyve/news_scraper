@@ -1,5 +1,5 @@
 
-# My first scraper project
+# Scraper
 
 This project pulls the last posted news in bleepingcomputer, thehackernews and threatpost then sends into a PostgreSQL database every hour.
 
